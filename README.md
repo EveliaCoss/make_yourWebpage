@@ -13,7 +13,7 @@ Paquetes necesarios para crear tu CV y página web en R.
 - [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html) - Instalacion de paquetes de Github
 - [datadrivencv](https://nickstrayer.me/datadrivencv/)
 - [postcards](https://github.com/seankross/postcards) - Tutorial del creador del paquete
-- [fontawesome(https://rstudio.github.io/fontawesome/) - puedes encontrar la informacion de los iconos en su [pagina web](https://fontawesome.com/icons)
+- [fontawesome](https://rstudio.github.io/fontawesome/) - puedes encontrar la informacion de los iconos en su [pagina web](https://fontawesome.com/icons)
 
 ### Instalación de paquetes
 
@@ -56,11 +56,25 @@ Posteriormente, tu repositorio tendrá el siguiente símbolo con palomita verde,
 
 ### 3. Subir a Github el CV
 
+Crea un nuevo repositorio publico que se llame `CV`, ademas vas a hacer que se repositorio se convierta en una pagina web. Lo mismo que hicimos en el paso anterior. 
+
+> Ya que tienes creado el repositorio tendrás en la parte superior un botón que dice *Settings* (un engranaje), vas a dar click y en caso de que te equivoques, aquí podrás editar el nombre en General. Vamos a ubicar el cursor en *Pages*, localizado en el menú de la izquierda. En donde dice *Branch* vas a cambiar la opción de *None a Main*. Automáticamente se activará un nuevo botón que dirá *root* con un símbolo de una carpeta. Da click en **Save**.
+
+En este repositorio vas a subir los archivos generados para el CV. Debe contener como minimo los siguientes archivos:
+
+[x] cached_positions.rds
+[x] cv_usuario.html - Archivo renderizado (Paso 1)
+[x] cv_usuario.rmd  - editado por el usuario (Paso 1)
+[x] cv_printing_functions.R (Paso 1)
+[x] paquetes.R - Solo vienen indicaciones de los paquetes (No es importante)
+[x] render_cv.R - editado por el usuario (Paso 1)
+
+En mi [Github](https://github.com/EveliaCoss/CV ) encuentras el ejemplo de mis archivos.
 
 ### 4. Crear la pagina web en R
 
 
-https://github.com/EveliaCoss/EveliaCoss.github.io
+
 https://github.com/EveliaCoss/CV
 
 
