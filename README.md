@@ -47,11 +47,11 @@ Ya que tienes creado el repositorio tendrás en la parte superior un botón que 
 
 Actualiza la página y ten paciencia, a veces tarda Github en darte el dominio. Cuando todo esté listo tendrás un link como este https://eveliacoss.github.io/ pero con tu usuario.  
 
-[dominio](https://github.com/EveliaCoss/make_yourWebpage/blob/main/dominio.png)
+![dominio](https://github.com/EveliaCoss/make_yourWebpage/blob/main/dominio.png)
 
 Posteriormente, tu repositorio tendrá el siguiente símbolo con palomita verde, validando que tienes una página web en Github.
 
-[logo](https://github.com/EveliaCoss/make_yourWebpage/blob/main/logo_githubpages.png)
+![logo](https://github.com/EveliaCoss/make_yourWebpage/blob/main/logo_githubpages.png)
 
 
 ### 3. Subir a Github el CV
