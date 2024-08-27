@@ -1,4 +1,4 @@
-# Crea tu pagina web en R
+# Crea tu página web en R
 
 Notas personales recabadas a partir de los tutoriales y ejemplos 😊. Espero que les funcione 💜
 
@@ -6,7 +6,7 @@ Video interactivo y explicativo conmigo en [OneDrive](https://drive.google.com/f
 
 ## Paquetes 📕
 
-Paquetes necesarios para crear tu CV y pagina web en R.
+Paquetes necesarios para crear tu CV y página web en R.
 
 - [rmarkdown](https://rmarkdown.rstudio.com/articles_intro.html)
 - [pagedown](https://github.com/rstudio/pagedown)
@@ -15,7 +15,7 @@ Paquetes necesarios para crear tu CV y pagina web en R.
 - [postcards](https://github.com/seankross/postcards) - Tutorial del creador del paquete
 - [fontawesome(https://rstudio.github.io/fontawesome/) - puedes encontrar la informacion de los iconos en su [pagina web](https://fontawesome.com/icons)
 
-### Instalacion de paquetes
+### Instalación de paquetes
 
 ```
 install.packages("rmarkdown")
@@ -26,12 +26,11 @@ install.packages("postcards")
 install.packages("fontawesome")
 ```
 
-###
+## Flujo de trabajo
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
+    Crear CV --> B;
     B-->D;
     C-->D;
 ```
