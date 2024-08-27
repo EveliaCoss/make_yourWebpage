@@ -30,7 +30,7 @@ install.packages("fontawesome")
 
 ```mermaid
 graph TD;
-    Crear CV --> B;
+    "Crear CV" --> B;
     B-->D;
     C-->D;
 ```
