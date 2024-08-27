@@ -43,7 +43,7 @@ Desde tu home de Github, vas a dar click en repositorios y vas a crear un nuevo 
 
 Ya que tienes creado el repositorio tendrás en la parte superior un botón que dice *Settings* (un engranaje), vas a dar click y en caso de que te equivoques, aquí podrás editar el nombre en General. Vamos a ubicar el cursor en *Pages*, localizado en el menú de la izquierda. En donde dice *Branch* vas a cambiar la opción de *None a Main*. Automáticamente se activará un nuevo botón que dirá *root* con un símbolo de una carpeta. Da click en **Save**.
 
-[branch](https://github.com/EveliaCoss/make_yourWebpage/blob/main/branch.png)
+![branch](https://github.com/EveliaCoss/make_yourWebpage/blob/main/branch.png)
 
 Actualiza la página y ten paciencia, a veces tarda Github en darte el dominio. Cuando todo esté listo tendrás un link como este https://eveliacoss.github.io/ pero con tu usuario.  
 
