@@ -1,5 +1,7 @@
 # Crea tu página web en R
 
+> Almacena este curso en tus favoritos, dando click en la estrella 🌟 de la parte superior derecha 😎.
+
 Notas personales recabadas a partir de los tutoriales y ejemplos 😊. Espero que les funcione 💜
 
 📹 Video interactivo y explicativo conmigo en [OneDrive](https://drive.google.com/file/d/1TAgaQlp3EzN5pwZdLfwKPP3vz2EDwkva/view?usp=sharing). 
