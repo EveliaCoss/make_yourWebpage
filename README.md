@@ -104,3 +104,6 @@ Modifica tu información y da click en `Knit` para que genere un archivo HTML co
 💜 Nota: Puedes subir todos tus archivos en Github para siempre tenerlo disponible.
 
 Y si llegaste al final 🌟💜 y ahora quieres hacer tu propio Github con tus notas y poner emogis, te dejo esta hermosa pagina que encontre con los emojis. Solo copialos y pegalos sin miedo 😏.
+
+---------------
+Cursos hechos con amor 💜
